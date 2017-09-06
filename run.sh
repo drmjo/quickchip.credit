@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# run.sh $commit_hash $host_port
+#
 docker run \
   --rm \
   --detach \
